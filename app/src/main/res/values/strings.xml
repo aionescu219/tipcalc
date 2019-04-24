@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">tipcalc</string>
+    <string name="button_text">Tip</string>
+    <string name="amount_hint">Amount</string>
+    <string name="dollar_sign">$</string>
+</resources>
